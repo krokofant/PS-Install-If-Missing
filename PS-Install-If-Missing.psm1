@@ -1,4 +1,4 @@
-function Install-If-Missing {
+function Install-IfMissing {
     param
     (
         [string] $ModuleName
